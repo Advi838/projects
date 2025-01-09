@@ -1,0 +1,77 @@
+<DOCTYPE html>
+<html>
+<head>
+<style>
+#satellite {
+ background-color:#34495e;
+ color: white;
+ padding: 50px;
+}
+
+ </style>
+</head>
+
+  <body>
+
+<h1 id="satellite">India's Contribution Through Satellite Technology</h1>
+
+
+<img src = "C:\Users\seema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-29 110957.png" width="100" height="100" border="10" align="right"/>
+
+<h1 style="color:#34495e;"><b>GSAT Satellites:Revolutionizing Communication</b></h1>
+
+<p><h3>GSAT (Geostationary Satellite) is a series of communication satellites launched by India. They have transformed communication infrastructure across India and beyond. These satellites play a crucial role in providing telecommunication, broadcasting, and broadband services, even in remote areas. They support critical applications like telemedicine, distance learning, and disaster communication.</h3></p>
+
+
+
+
+<img src = "C:\Users\seema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-29 111247.png" width="100" height="100" border="10" align="right"/>
+
+<h1 style="color:#34495e;"><b>NAVIC: India's Regional Navigation Satellite System</b></h1>
+
+<p><h3>NAVIC (Navigation with Indian Constellation) is a regional satellite navigation system developed by ISRO. It provides accurate position information services to users in India and surrounding regions. NAVIC is India’s answer to global positioning systems like GPS and plays a vital role in navigation for both civilian and military purposes.</h3></p>
+
+
+
+
+<img src = "C:\Users\seema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-30 124620.png" width="100" height="100" border="10" align="right"/>
+
+<h1 style="color:#34495e;"><b>Weather Prediction: Precision through Satellites</b></h1>
+
+<p><h3>India’s satellites, especially the INSAT (Indian National Satellite System) series, play a vital role in weather prediction. They monitor atmospheric conditions, cloud patterns, and other crucial data that aid meteorologists in forecasting weather accurately. The data from these satellites helps in providing early warnings for storms, cyclones, and floods, reducing the risk to human lives and property.</h3></p>
+
+
+
+
+
+<img src ="C:\Users\seema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-30 124911.png" width="100" height="100" border="10" align="right"/>
+
+<h1 style="color:#34495e;"><b>Navigation: Precision and Reliability</b></h1>
+
+<p><h3>With the advent of NAVIC, India has bolstered its capabilities in satellite-based navigation systems. NAVIC, which works 24/7, helps provide precise location data to both land-based and mobile users. This is beneficial for applications such as vehicle tracking, disaster relief operations, and maritime navigation. It also supports defense operations and logistics.</h3></p>
+
+
+
+
+<img src = "C:\Users\seema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-30 125221.png"  width="100" height="100" border="10" align="right"/>
+
+<h1 style="color:#34495e;"><b>Disaster Management: Saving Lives with Satellite Technology</b></h1>
+
+<p><h3>Satellites like GSAT and INSAT have been instrumental in India’s disaster management efforts. Satellite imagery and data help in real-time monitoring of natural disasters like earthquakes, floods, and landslides. This data is crucial for coordinating disaster relief efforts, assessing damage, and deploying rescue operations. With timely satellite data, India can minimize the impact of disasters and save lives.</h3></p>
+
+
+<p style="text-align: right; font-style: italic;">Project by Advi Choudhary 6th A </p>
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

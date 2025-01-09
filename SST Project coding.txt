@@ -1,0 +1,64 @@
+<html>
+ <head>
+      <style>
+    .class {
+    background-color:#9FE2BF;
+    color:white;
+    padding: 10px;
+    
+       </style>
+ </head>
+
+
+  <body>
+
+    <p style="text-align: center; color:#16a085; font-size:50px;"><b><u>Why Did People Travel to India in Ancient Times?</u></b></p>
+
+    <h2><p><i>In ancient times, many people traveled to India because it was famous for its wealth, knowledge, and culture.</i></h2></p>
+    
+    <h1 style= "color:#16a085; align="center">Reasons for Travel</h1>
+    
+        <h2 class="class">Trade</h2>
+<p><h2> India was known for its spices, silk, and gold.India was famous for its wealth and luxury goods, including spices, silk, cotton, precious stones, and gold.The Silk Route and maritime trade routes connected India to distant lands.</h2><p>
+
+
+        <h2 class="class">Education</h2>
+<p><h2> Famous universities like Nalanda and takshashila attracted students from other countries.Indian texts on science and spirituality were highly valued.</h2></p>
+
+
+        <h2 class="class">Religion</h2>
+<h2><p>Pilgrims came to visit holy places and learn about Buddhism and Hinduism.Pilgrims from China, Japan, Sri Lanka, and other countries came to visit holy sites, such as Bodh Gaya Travelers like Xuanzang and Faxian from China came to study Buddhism and take sacred texts back to their countries.</p></h2>
+
+        <h2 class="class">Culture</h2>
+<h2><p>India’s art, music, dance, and architecture fascinated people.Cultural exchanges enriched both India and the visiting civilizations.The spread of ideas such as yoga and Ayurveda began during this period.</p></h2>
+
+         <h2 class="class">Exploration</h2>
+<h2><p>Explorers came to discover India’s landscapes, forests, and natural beauty.
+India’s vast geography, from the Himalayas to the southern coasts, intrigued adventurers.</h2></li>
+
+         <h2 class="class">Territorial conquests</h2>
+<h2><p>Some, like Alexander the Great, came with armies to expand their empires.
+Conquests led to cultural mixing and the introduction of foreign influences.</p></h2>
+
+    
+    <h2 class="class">Megasthenes</h2>
+    <h2><p>One example of travelling to India in ancient times would be of Megasthenes ; A Greek ambassador from the court of Seleucus I; He travelled to India in 4th century BCE due to diplomatic purposes and to document the socio-political structure of India during the Mauryan Empire under Chandragupta Maurya. He even wrote the famous book Indica, which provides insights into Indian society, geography, and governance.</h2>
+
+<img src = "C:\Users\seema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-28 003430.png" width="220" height="200" border="10" align="right"/>
+
+<img src = "C:\Users\seema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-31 180727.png"width="220" height="200" border="10" align="right"/>
+
+<img src = "C:\Users\seema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-28 003314.png" width="220" height="200" border="10" align="right"/>
+
+<img src = "C:\Users\seema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-31 182247.png"  width="220" height="200" border="10" align="right"/>
+
+<img src = "C:\Users\seema\OneDrive\Pictures\Screenshots\Screenshot 2024-12-31 182821.png" width="220" height="200" border="10" align="right"/>
+
+ 
+ 
+
+    
+    <p style="text-align: right; font-style: italic;">Project by Advi Choudhary 6th A </p>
+
+</body>
+</html
